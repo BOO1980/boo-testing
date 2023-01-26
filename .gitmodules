@@ -1,0 +1,3 @@
+[submodule "boo-tdd"]
+	path = boo-tdd
+	url = https://github.com/BOO1980/boo-tdd.git
