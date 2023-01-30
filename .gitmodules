@@ -4,3 +4,6 @@
 [submodule "boo-unit-testing"]
 	path = boo-unit-testing
 	url = https://github.com/BOO1980/boo-unit-testing.git
+[submodule "boo-intergration-testing"]
+	path = boo-intergration-testing
+	url = https://github.com/BOO1980/boo-intergration-testing.git
