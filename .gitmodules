@@ -1,3 +1,6 @@
 [submodule "boo-tdd"]
 	path = boo-tdd
 	url = https://github.com/BOO1980/boo-tdd.git
+[submodule "boo-unit-testing"]
+	path = boo-unit-testing
+	url = https://github.com/BOO1980/boo-unit-testing.git
